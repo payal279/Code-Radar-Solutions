@@ -2,9 +2,9 @@
 
 int main()
 {
-    char name[10];
-    scanf("%c",&name);
-    printf("You entered %c",name);
+    float f[];
+    scanf("%d",&name);
+    printf("You entered %d",name);
     return 0;
 }
 
