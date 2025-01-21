@@ -3,8 +3,8 @@
 int main()
 {
     float f[];
-    scanf("%d",&name);
-    printf("You entered %d",name);
+    scanf("%d",&f);
+    printf("You entered %d",f);
     return 0;
 }
 
