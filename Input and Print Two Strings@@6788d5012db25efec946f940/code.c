@@ -4,6 +4,6 @@ int main() {
     char value[100],name[100];
     scanf("%s",&value);
     scanf("%s",&name);
-    printf("You entered: %s",value+'and'name);
+    printf("You entered: %s",value+name);
     return 0;
 }
