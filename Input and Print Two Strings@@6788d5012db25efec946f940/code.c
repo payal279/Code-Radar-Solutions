@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    char value[100];
+    char value[100],name[100];
     scanf("%s",&value);
-    printf("You entered: %s",value );
+    scanf("%s",&name);
+    printf("You entered: %s",value+'and'name);
     return 0;
 }
