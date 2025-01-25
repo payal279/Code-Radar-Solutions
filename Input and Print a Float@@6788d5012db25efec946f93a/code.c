@@ -2,11 +2,9 @@
 
 int main()
 {
-    float num1,num2;
-    scanf("%f",&num1);
-    printf("You entered:%f"num1);
-    scanf("%f",&num2);
-    printf("You entered:%f",num2);
+    float num;
+    scanf("%f",&num);
+    printf("You entered:%2.f"num);
     return 0;
 }
 
