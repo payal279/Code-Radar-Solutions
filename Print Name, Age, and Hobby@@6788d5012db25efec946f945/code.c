@@ -5,10 +5,10 @@ int main() {
     int age;
     char name;
     scanf("%c",&name);
-    scanf("%c",&age);
+    scanf("%d",&age);
     scanf("%c",&hobby);
     printf("Name: %c\n",name);
-    printf("Age: %c\n",age);
+    printf("Age: %d\n",age);
     printf("Hobby: %c",hobby);
 
     return 0;
