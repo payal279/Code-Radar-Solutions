@@ -5,7 +5,7 @@ int main() {
     int a2;
     scanf("%d",&a1);
     scanf("%d",&a2);
-    if {(a1>a2);
+    if {(a1>a2)
         printf("True");
     }
     else{
