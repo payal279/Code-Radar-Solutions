@@ -8,7 +8,7 @@ int main() {
     if {(a1>a2)
     printf("True");}
     else{
-        printf("False")
+        printf("False");
     }
 
     
