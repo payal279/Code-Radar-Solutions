@@ -6,8 +6,8 @@ int main() {
     scanf("%d",&num2);
     if (num1<num2){
         printf("True\n");
-        else{
-            printf("False\n")
+    else{
+        printf("False\n");
         }
     }
     return 0;
