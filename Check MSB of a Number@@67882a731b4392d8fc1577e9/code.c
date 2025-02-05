@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int a,i,mask;
+    int a,i=1,mask;
     scanf("%d",&a);
     mask=1>>(i-1);
     if(a & mask){
