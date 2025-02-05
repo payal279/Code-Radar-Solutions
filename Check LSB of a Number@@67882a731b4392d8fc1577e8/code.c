@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int a,mark;
+    int a,i,mark;
     scanf("%d",&a);
     mark=1<<(i-1);
     if (a & mark){
