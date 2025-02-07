@@ -5,7 +5,7 @@ int main() {
     int a;
     scanf("%d",&a);
     if (a<60){
-        printf("Not eligible");
+        printf("Not Eligible");
     }
     else{
         printf("Eligible");
