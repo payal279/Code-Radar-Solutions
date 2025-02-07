@@ -8,7 +8,7 @@ int main() {
     else if(ch=='B'){
         printf("Good");
     }
-    else if (ch=='c'){
+    else if (ch=='C'){
         printf("Average");
     }
     else if(ch=='D'){
