@@ -3,7 +3,7 @@
 
 int main() {
     char Light;
-    scanf("%c",&Red,&Green,&Yellow)
+    scanf("%c",&Light)
     if(Light=='R''){
         printf("Stop");
     }
