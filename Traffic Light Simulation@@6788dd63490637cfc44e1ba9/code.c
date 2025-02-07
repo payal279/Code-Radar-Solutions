@@ -4,7 +4,7 @@
 int main() {
     char Light;
     scanf("%c",&Light)
-    if(Light=='R''){
+    if(Light=='R'){
         printf("Stop");
     }
     else if(Light='G'){
