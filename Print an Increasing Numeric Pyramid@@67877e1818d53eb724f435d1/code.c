@@ -3,8 +3,8 @@
 int main() {
     int rows,i,j,space;
     scanf("%d",&rows);
-    for (i=0;i<=rows;i++){
-        for(space=1;space<=rows-i;space++){
+    for (i=1;i<=rows;i++){
+        for(space=0;space<=rows-i;space++){
             printf(" ");
         }
         for (j=1;j<=(2*i-1);j++){
